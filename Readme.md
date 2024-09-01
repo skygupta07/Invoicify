@@ -19,9 +19,9 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+- **Internal Presentation:** [Internal Presentation](https://github.com/skygupta07/SIH_INTERNAL_ROUND_1_NullNinjas/blob/master/files/Internal_PPT_NullNinjas.pdf)
+- **Final SIH Presentation:** [Final SIH Presentation](https://github.com/skygupta07/SIH_INTERNAL_ROUND_1_NullNinjas/blob/master/files/SIH_PPT_NullNinjas.pdf)
+- **Video Demonstration:** [Watch Video](https://youtu.be/5gapqSV0M38)
 - **Live Deployment:** [NA]
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [NA]
+- **Source Code:** [GitHub Repository](https://github.com/skygupta07/SIH_INTERNAL_ROUND_1_NullNinjas)
+- **Additional Resources:** [Local Installation Setup](https://github.com/skygupta07/SIH_INTERNAL_ROUND_1_NullNinjas/blob/master/code/Readme.md)
