@@ -1,11 +1,14 @@
+import { Endpoint, Platform, ProjectID, StorageID, DatabaseID, UserID} from '@env';
+
 import { Client, ID, Account, Databases, Query } from 'react-native-appwrite';
+
 export const appwriteConfig = {
-    endpoint: "https://cloud.appwrite.io/v1",
-    platform: "com.sih.invoice",
-    projectId: "66d33f4900081aa90bab",
-    storageId: "66d3444c0009ea4ff1fd",
-    databaseId: "66d341e9003d5cdc2a9c",
-    userCollectionId: "66d3421f001d90e870bd",
+    endpoint: Endpoint,
+    platform: Platform,
+    projectId: ProjectID,
+    storageId: StorageID,
+    databaseId: DatabaseID,
+    userCollectionId: UserID,
 };
 
 
