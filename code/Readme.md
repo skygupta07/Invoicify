@@ -29,6 +29,7 @@ Follow these steps to run the project locally
    ```bash
    git clone GITHUB_LINK_TO_THE_REPO
    cd REPO_DIRECTORY
+   ```
 
 
    
