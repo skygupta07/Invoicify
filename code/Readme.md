@@ -31,6 +31,81 @@ Follow these steps to run the project locally
    cd REPO_DIRECTORY
    ```
 
+2. **Install Node.js and npm (if not already installed)**
+   ```bash
+   node -v
+   npm -v
+   ```
+
+3. **Install Expo CLI**
+   ```bash
+   npm install -g expo-cli
+   ```
+
+
+4. **Install Project Dependencies**
+   ```bash
+   npm install
+   ```
+
+
+5. **Set Up Appwrite**
+   - Follow the Appwrite installation guide to set up your Appwrite server.
+   - Update the appwrite.json configuration file in the project with your Appwrite project details.
+
+
+6. **Run the Project**
+   ```bash
+   expo start
+   ```
+
+
+7. **Run on Emulator or Physical Device**
+   - Choose the appropriate option from the Expo DevTools for iOS emulator.
+   - Alternatively, scan the QR code using the Expo Go app to run it on a physical device.
 
    
+## Local Setup Instructions (MacOS Setup)
 
+1. **Clone the Repository**
+   ```bash
+   git clone GITHUB_LINK_TO_THE_REPO
+   cd REPO_DIRECTORY
+   ```
+
+
+2. **Install Node.js and npm (if not already installed)**
+   ```bash
+   brew install node
+   ```
+
+   ```bash
+   node -v
+   npm -v
+   ```
+
+3. **Install Expo CLI**
+   ```bash
+   npm install -g expo-cli
+   ```
+
+
+4. **Install Project Dependencies**
+   ```bash
+   npm install
+   ```
+
+5. **Set Up Appwrite**
+   - Follow the Appwrite installation guide to set up your Appwrite server.
+   - Update the appwrite.json configuration file in the project with your Appwrite project details.
+
+
+6. **Run the Project**
+   ```bash
+   expo start
+   ```
+
+7. **Run on Emulator or Physical Device**
+
+   - Choose the appropriate option from the Expo DevTools for iOS emulator.
+   - Alternatively, scan the QR code using the Expo Go app to run it on a physical device.
