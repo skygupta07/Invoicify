@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349138812590",
+    "project_id": "invoice-app-182be",
+    "storage_bucket": "invoice-app-182be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349138812590:android:89ac3324cb4d58a7c5373f",
+        "android_client_info": {
+          "package_name": "com.sih.invoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiIgY74eKnmyUWlUAsa7l2nyESZq3Jw7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
