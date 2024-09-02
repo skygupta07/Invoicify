@@ -8,7 +8,7 @@ import { shareAsync } from "expo-sharing";
 import { useRoute } from '@react-navigation/native';
 import { TouchableOpacity } from "react-native";
 
-export default function Invoice1Preview({ navigation }) {
+export default function Invoice1Preview() {
   const route = useRoute();
   const { invoiceHTML } = route.params;
   const [htmlContent, setHtmlContent] = useState(null);
@@ -18,6 +18,10 @@ export default function Invoice1Preview({ navigation }) {
       setHtmlContent(invoiceHTML);
     }
   }, [invoiceHTML]);
+
+  const handleBack = () => {
+    router.back();
+  };
 
   const handlePrintInvoice = async () => {
     try {
@@ -58,7 +62,7 @@ export default function Invoice1Preview({ navigation }) {
 
         <View className="flex justify-center items-center">
           <TouchableOpacity
-            onPress={() => router.push("invoice1screen")}
+            onPress={handleBack}
             className="w-[350] bg-blue-500 p-6 rounded-xl mt-5"
           >
             <Text className="text-white font-pbold text-center">

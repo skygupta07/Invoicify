@@ -29,7 +29,7 @@ const profile = () => {
                     <Image
                         source={icons.logout}
                         resizeMode="contain"
-                        className="w-6 h-6 ml-2" // Margin right to add space between icon and text
+                        className="w-6 h-6 ml-2"
                     />
 
                 </TouchableOpacity>
