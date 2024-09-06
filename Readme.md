@@ -1,8 +1,5 @@
 # Invoicify
 
- # Project Details
-[(Back to top)](#table-of-contents)
-
 ### Overview
 
 Invoicify is a mobile application designed to streamline the invoicing process for users, from freelancers to large enterprises. Built with a focus on user experience and efficiency, Invoicify aims to simplify creating, managing, and sharing invoices with a few taps on your mobile device.
@@ -67,7 +64,7 @@ To set up Invoicify on your local machine:
 
 1. **Clone the Repository:**
     ```shell
-    git clone https://github.com/nitinjha07/Invoicify-App.git
+    git clone https://github.com/skygupta07/Invoicify.git
     cd Invoicify-App
     ```
 
