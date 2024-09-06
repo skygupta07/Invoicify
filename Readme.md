@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=5gapqSV0M38
 
 This is a table of contents for your project. It helps the reader navigate through the README quickly.
 
-- [Project Details](#project-details)
+
 - [Download the App](#download-the-app)
 - [Development Environment](#development-environment)
 - [Quick Start Demo](#quick-start-demo)
